@@ -1,10 +1,12 @@
-header{background: rgb(129, 250, 244); border-bottom: 5px solid #1C6EA4; margin-bottom: 10px;}
+header{background: rgb(60, 67, 67); border-bottom: 5px solid #1d1f21; margin-bottom: 10px;}
 
-body{background: rgb(76, 132, 128);}
+body{background: rgb(2, 6, 5);}
 
 .container{margin-left: 0;}
 
 .row{margin-top: 10px;}
 
-footer{background: rgb(129, 250, 244); border-top: 5px solid #1C6EA4; margin-top: 10px;}
+footer{background: rgb(60, 67, 67); border-top: 5px solid #1d1f21; margin-top: 10px;}
+
+.card{background: rgb(60, 67, 67);}
 
